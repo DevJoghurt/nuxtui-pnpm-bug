@@ -1,7 +1,7 @@
 {
 	"name": "app",
 	"version": "0.0.0",
-	"description": "FHIR application layer for Nuxt based on Medplum Fhir server",
+	"description": "Nuxt ui bug repo",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/DevJoghurt/fhir.git",
